@@ -9,7 +9,7 @@ Not very effective <br>
 ### Low and High Reviews
 ![High](/Images/hl.png) <br>
 
-## Bad of Word Methodolgy <br>
+## Bag of Word Methodolgy <br>
 A better way of analysis
 
 ### N-grams <br>
