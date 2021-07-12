@@ -7,7 +7,7 @@ Not very effective <br>
 ![Combined](/Images/p.png) <br>
 
 ### Low and High Reviews
-![High](/Images/high.png) <br>
+![High](/Images/hl.png) <br>
 
 ## Bad of Word Methodolgy <br>
 A better way of analysis
