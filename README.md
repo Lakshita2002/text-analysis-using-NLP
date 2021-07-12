@@ -6,11 +6,8 @@ Not very effective <br>
 ### Combined Reviews
 ![Combined](/Images/p.png) <br>
 
-### High Reviews
+### Low and High Reviews
 ![High](/Images/high.png) <br>
-
-### Low Reviews
-![Low](/Images/low.png) <br>
 
 ## Bad of Word Methodolgy <br>
 A better way of analysis
