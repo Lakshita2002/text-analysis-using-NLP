@@ -13,6 +13,13 @@ Not very effective <br>
 A better way of analysis
 
 ## TF-IDF Method **(Term Frequency - Inverse Document Frequency)** <br>
+
+**Corpus** - a collection of written texts <br>
+A corpus here would mean the entire reviews collection <br>
+
+**Documents** means the individual review here <br>
+
+
 ![TF-IDF](/Images/tf-idf.png) <br>
 
 ### N-grams <br>
