@@ -12,5 +12,8 @@ Not very effective <br>
 ## Bag of Word Methodolgy <br>
 A better way of analysis
 
+## TF-IDF Method **(Term Frequency - Inverse Document Frequency)** <br>
+![TF-IDF](/Images/tf-idf.png) <br>
+
 ### N-grams <br>
 Number of words to be paired for **Text Vectorization** <br>
